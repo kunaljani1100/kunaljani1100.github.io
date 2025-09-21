@@ -23,12 +23,12 @@ I’m a software engineer passionate about building modern web apps, exploring n
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Studystack** | Short description of what the app does and your role. | [GitHub](https://github.com/kunaljani1100/study-stack.git) |
-| **Face Recognition** | API or tool you built — highlight performance or impact. | [GitHub](https://github.com/kunaljani1100/face-recognition.git) |
-| **Online Shopping Application** | Frontend / blog / JAMstack site or automation tool. | [GitHub](https://github.com/kunaljani1100/online-shopping-application.git) |
-| **Online Gambling Application** | Frontend / blog / JAMstack site or automation tool. | [GitHub](https://github.com/kunaljani1100/gambling-site.git) |
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Studystack** | An application that is a collaborative platform for users to ask questions and answer them. | [GitHub](https://github.com/kunaljani1100/study-stack.git) |
+| **Face Recognition** | A complete algorithmic implementation of face recognition in the C language using Principal Component Analysis and Discrete Cosine Transform and experimenting with various types of noise. | [GitHub](https://github.com/kunaljani1100/face-recognition.git) |
+| **Online Shopping Application** | An application where developers can add items to the cart and check them out. | [GitHub](https://github.com/kunaljani1100/online-shopping-application.git) |
+| **Online Gambling Application** | An application that explains why gambling is bad for your health. | [GitHub](https://github.com/kunaljani1100/gambling-site.git) |
 
 ---
 
