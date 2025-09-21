@@ -1,41 +1,67 @@
-# Kunal Jani
-Hi I'm Kunal, and I am currently a software developer working at American Express in Phoenix, Arizona.
+# 👋 Hi, I’m Kunal Jani
 
-## Programming Languages
+I’m a software engineer passionate about building modern web apps, exploring new technologies, and continuously learning to improve my craft.  
 
-1. Java
-2. Python
-3. C
-4. C++
-5. Ruby
+---
 
-## Tools and Technologies
+## 🔗 Quick Links
 
-1. Vert.x
-2. Spring Boot
-3. React.js
-4. AWS
-5. GCP
-6. Message Passing Interface
-7. OpenMP (Open Multi Processing)
-8. Flask
-9. Sinatra
-10. Ruby on Rails
-11. Android Application Development
+- 🌐 Portfolio: [kunaljani1100.github.io](https://kunaljani1100.github.io)  
+- 💻 GitHub: [github.com/kunaljani1100](https://github.com/kunaljani1100)  
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kunal-jani-2aaa16125/)  
 
-## Certifications:
+---
 
-1. AWS Certified Cloud Practitioner
-2. Google Certified Digital Leader
-3. Elastic Certified Engineer
-4. Oracle Certified Java SE Developer
+## 👨‍💻 About Me
 
-## Personal Projects:
+- 💡 I enjoy solving problems through clean, scalable code.  
+- 🌱 Currently exploring the world of cloud architecture.  
+- 🤝 Open to collaboration on exciting open-source and community projects.  
+- ⚡ Fun fact: *I love blending creativity with technology to build unique user experiences.*  
 
-1. Studystack:
+---
 
-   Backend: https://github.com/kunaljani1100/study-stack.git
-   Frontend: https://github.com/kunaljani1100/studystack-frontend.git
-2. Face Recognition: https://github.com/kunaljani1100/face-recognition
-3. Online Shopping Application: https://github.com/kunaljani1100/online-shopping-application.git
-4. Online Gambling Site: https://github.com/kunaljani1100/gambling-site.git
+## 🚀 Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Studystack** | Short description of what the app does and your role. | [GitHub](https://github.com/kunaljani1100/study-stack.git) |
+| **Face Recognition** | API or tool you built — highlight performance or impact. | [GitHub](https://github.com/kunaljani1100/face-recognition.git) |
+| **Online Shopping Application** | Frontend / blog / JAMstack site or automation tool. | [GitHub](https://github.com/kunaljani1100/online-shopping-application.git) |
+| **Online Gambling Application** | Frontend / blog / JAMstack site or automation tool. | [GitHub](https://github.com/kunaljani1100/gambling-site.git) |
+
+---
+
+## 📜 Certifications
+
+- **Google Certified Digital Leader** — Issued by *Google* — *September 2025*  
+- **Elasic Certified Engineer** — Issued by *Elasticsearch* — *March 2025*  
+- **Oracle Certified Associate Java Developer** — Issued by *Oracle* — *January 2025*  
+- **AWS Certified Cloud Practitioner** — Issued by *Amazon* — *September 2023*  
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Java, Python, Ruby, C, C++
+**Frontend:** React.js, Javascript
+**Backend:** Spring Boot, Vert.x, Flask
+**Databases:** PostgreSQL, MongoDB, Couchbase
+**Tools & Cloud:** Google Cloud Platform, AWS
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **kunaljani18@gmail.com**  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kunal-jani-2aaa16125/)  
+- 💻 GitHub: [github.com/kunaljani1100](https://github.com/kunaljani1100)  
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House  
+
+---
+
+_Last updated: 2025-09-20_
+
