@@ -6,9 +6,9 @@ I’m a software engineer passionate about building modern web apps, exploring n
 
 ## 🔗 Quick Links
 
-- 🌐 Portfolio: [kunaljani1100.github.io](https://kunaljani1100.github.io)  
-- 💻 GitHub: [github.com/kunaljani1100](https://github.com/kunaljani1100)  
-- 🔗 LinkedIn: (https://www.linkedin.com/in/kunal-jani-2aaa16125/)  
+- 🌐 Portfolio: https://kunaljani1100.github.io
+- 💻 GitHub: https://github.com/kunaljani1100
+- 🔗 LinkedIn: https://www.linkedin.com/in/kunal-jani-2aaa16125/
 
 ---
 
