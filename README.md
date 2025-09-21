@@ -54,8 +54,8 @@ I’m a software engineer passionate about building modern web apps, exploring n
 ## 📫 Connect With Me
 
 - 📧 Email: **kunaljani18@gmail.com**  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kunal-jani-2aaa16125/)  
-- 💻 GitHub: [github.com/kunaljani1100](https://github.com/kunaljani1100)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/kunal-jani-2aaa16125/)  
+- 💻 GitHub: (https://github.com/kunaljani1100)  
 
 ---
 
