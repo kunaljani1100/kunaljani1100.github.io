@@ -29,6 +29,8 @@ I’m a software engineer passionate about building modern web apps, exploring n
 | **Face Recognition** | A complete algorithmic implementation of face recognition in the C language using Principal Component Analysis and Discrete Cosine Transform and experimenting with various types of noise. | [GitHub](https://github.com/kunaljani1100/face-recognition.git) |
 | **Online Shopping Application** | An application where developers can add items to the cart and check them out. | [GitHub](https://github.com/kunaljani1100/online-shopping-application.git) |
 | **Online Gambling Application** | An application that explains why gambling is bad for your health. | [GitHub](https://github.com/kunaljani1100/gambling-site.git) |
+| **Human Expression Recognition** | An application that recognized human expressions using a neural network model. | https://www.kaggle.com/code/kunaljani/human-expression-recognition |
+| **Digit Recognition** | Recognize handwritten digits from the MNIST dataset | https://www.kaggle.com/code/kunaljani/digit-recognition-using-machine-learning |
 
 ---
 
@@ -55,7 +57,8 @@ I’m a software engineer passionate about building modern web apps, exploring n
 
 - 📧 Email: **kunaljani18@gmail.com**  
 - 💼 LinkedIn: (https://www.linkedin.com/in/kunal-jani-2aaa16125/)  
-- 💻 GitHub: (https://github.com/kunaljani1100)  
+- 💻 GitHub: (https://github.com/kunaljani1100)
+- 💻 Kaggle: (https://www.kaggle.com/kunaljani/code)
 
 ---
 
