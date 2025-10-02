@@ -1,93 +1,115 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Your Name | Portfolio</title>
-  <link rel="stylesheet" href="styles.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kunal Jani - Backend Software Engineer</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-  <!-- Navigation -->
-  <nav>
-    <ul>
-      <li><a href="#home" class="active">Home</a></li>
-      <li><a href="#about">About</a></li>
-      <li><a href="#resume">Resume</a></li>
-      <li><a href="#skills">Skills</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
 
-  <!-- Hero Section -->
-  <header id="home" class="hero">
-    <h1>Kunal Jani</h1>
-    <p>Backend Engineer | Problem Solver | Firefighter</p>
-  </header>
+    <header id="top-bar">
+        <h1>Kunal Jani</h1>
+        <div class="subtitle">Backend Software Engineer | Java, Vert.x, Cloud</div>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#experience">Experience</a>
+            <a href="#skills">Skills</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
 
-  <!-- About -->
-  <section id="about">
-    <h2>About Me</h2>
-    <p>
-      I am a Backend Software Engineer with 3+ years of experience designing scalable microservices in Java, Spring Boot, and Vert.x. Certified in AWS, Google Cloud, ElasticSearch, and contributor to open source (Pandas, Vert.x,XGBoost).
-    </p>
-  </section>
+    <main id="portfolio-container">
+        
+        <aside id="sidebar">
+            
+            <section id="about" class="sidebar-section">
+                <h2>Summary</h2>
+                <p>Backend Software Engineer with 3+ years of experience designing scalable microservices in Java, Spring Boot, and Vert.x. Certified in AWS, Google Cloud, and ElasticSearch. Proven track record in high-performance, low-latency distributed systems.</p>
+                <img src="placeholder-profile.jpg" alt="Kunal Jani Profile Picture" class="profile-pic">
+            </section>
 
-  <!-- Resume -->
-  <section id="resume">
-    <h2>Resume</h2>
-    <div class="resume-section">
-      <h3>Education</h3>
-      <p><strong>BS in Computer Science</strong>, XYZ University, 2020–2024</p>
-    </div>
-    <div class="resume-section">
-      <h3>Experience</h3>
-      <p><strong>Software Engineer Intern</strong>, ABC Corp (Summer 2023)</p>
-      <p>Worked on backend services, APIs, and automated deployments.</p>
-    </div>
-  </section>
+            <section id="skills" class="sidebar-section">
+                <h2>Technical Skills</h2>
+                <ul class="skills-list">
+                    <li>Java, Vert.x, Spring Boot, Reactive Streams</li>
+                    <li>PostgreSQL, MongoDB, Couchbase, ElasticSearch</li>
+                    <li>AWS, GCP, Jenkins CI/CD</li>
+                    <li>Splunk, Log4j</li>
+                    <li>Python, GraphQL</li>
+                </ul>
+            </section>
 
-  <!-- Skills -->
-  <section id="skills">
-    <h2>Skills</h2>
-    <div class="skill">
-      <p>JavaScript</p>
-      <div class="skill-bar"><span style="width: 90%"></span></div>
-    </div>
-    <div class="skill">
-      <p>Python</p>
-      <div class="skill-bar"><span style="width: 85%"></span></div>
-    </div>
-    <div class="skill">
-      <p>Java</p>
-      <div class="skill-bar"><span style="width: 75%"></span></div>
-    </div>
-  </section>
+            <section id="certifications" class="sidebar-section">
+                <h2>Certifications & OS</h2>
+                <ul>
+                    <li>Elastic Certified Engineer</li>
+                    <li>AWS Certified Cloud Practitioner</li>
+                    <li>Google Cloud Digital Leader</li>
+                    <li>Open Source Contributor (Pandas, Vert.x, XGBoost)</li>
+                </ul>
+            </section>
 
-  <!-- Projects -->
-  <section id="projects">
-    <h2>Projects</h2>
-    <div class="project-item">
-      <h3>Portfolio Website</h3>
-      <p>A personal portfolio site hosted on GitHub Pages.</p>
-      <a href="#">View Project</a>
-    </div>
-    <div class="project-item">
-      <h3>Hackathon App</h3>
-      <p>Built a full-stack web app in 24 hours to solve XYZ problem.</p>
-      <a href="#">View Project</a>
-    </div>
-  </section>
+            <section id="contact" class="sidebar-section">
+                <h2>Connect</h2>
+                <div class="contact-links">
+                    <a href="https://www.linkedin.com/in/kunal-jani-2aaa16125/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                    <a href="https://github.com/kunaljani1100/" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    <a href="mailto:kunaljani18@gmail.com"><i class="fas fa-envelope"></i> Email</a>
+                </div>
+            </section>
 
-  <!-- Contact -->
-  <footer id="contact">
-    <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:kunaljani18@gmail.com">kunaljani18@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/kunal-jani-2aaa16125/">https://www.linkedin.com/in/kunal-jani-2aaa16125/</a></p>
-    <p>GitHub: <a href="github.com/kunaljani1100">github.com/kunaljani1100</a></p>
-  </footer>
+        </aside>
 
-  <script src="main.js"></script>
+        <div id="main-content">
+
+            <section id="experience" class="content-section">
+                <h2>Experience</h2>
+                
+                <div class="job-entry">
+                    <h3>Software Engineer - American Express</h3>
+                    <p class="job-meta">Aug 2022 – Present | Phoenix, AZ</p>
+                    <ul>
+                        <li>Engineered scalable backend architectures (Java, Vert.x, Spring Boot) ensuring high availability and low-latency performance for critical business systems.</li>
+                        <li>Improved system reliability by integrating centralized logging and monitoring pipelines, enabling SRE teams to detect and resolve production issues faster.</li>
+                        <li>Resolved critical production issues and executed deployments via Jenkins CI/CD, minimizing downtime.</li>
+                    </ul>
+                </div>
+
+                <div class="job-entry">
+                    <h3>Software Engineering Intern - SnapCheck</h3>
+                    <p class="job-meta">Nov 2020 – Apr 2021 | San Mateo, CA</p>
+                    <ul>
+                        <li>Optimized Java Vert.x APIs with Reactive Streams and MongoDB indexing, cutting execution time for financial transaction workflows and boosting system throughput.</li>
+                        <li>Integrated AWS APIs to automate email notifications for internal server errors, improving incident awareness and response times.</li>
+                    </ul>
+                </div>
+
+                <div class="job-entry">
+                    <h3>Software Engineering Intern - American Express</h3>
+                    <p class="job-meta">June 2021 – Aug 2021 | Phoenix, AZ</p>
+                    <ul>
+                        <li>Engineered a Spring Boot chatbot API that automated responses to customer queries, reducing manual support workload and accelerating response times.</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section id="education" class="content-section">
+                <h2>Education</h2>
+                <div class="edu-entry">
+                    <h3>Santa Clara University</h3>
+                    <p class="edu-meta">Masters in Computer Science and Engineering | Sep 2020 – Jun 2022</p>
+                </div>
+                <div class="edu-entry">
+                    <h3>DA-IICT</h3>
+                    <p class="edu-meta">BTech in Information Technology | Jun 2016 – May 2020</p>
+                </div>
+            </section>
+
+        </div>
+
+    </main>
 </body>
 </html>
