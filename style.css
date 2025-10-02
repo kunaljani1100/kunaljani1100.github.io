@@ -6,6 +6,47 @@
  * Headers (White): #ffffff
  */
 
+/* --- PROJECTS SECTION SPECIFIC STYLING --- */
+
+/* Ensure the project-entry box is styled like the job-entry boxes */
+.project-entry {
+    background-color: #242424; 
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 4px;
+    border-left: 5px solid #00bcd4; /* Accent line */
+    transition: background-color 0.3s ease;
+}
+
+.project-entry:hover {
+    background-color: #2b2b2b; /* Slight lift on hover */
+}
+
+/* Style the link container: Makes the entire title the accent color */
+.project-entry h3 a.project-link {
+    text-decoration: none; /* Removes the default browser underline */
+    color: #00bcd4; /* <-- PRIMARY CHANGE: Sets the text color to the accent cyan */
+    transition: color 0.3s ease;
+}
+
+/* Style the link on hover: Changes both text and icon to white on hover */
+.project-entry h3 a.project-link:hover {
+    color: #ffffff; /* Text color changes to white on hover */
+}
+
+/* Style the icon */
+.project-entry h3 a.project-link i {
+    font-size: 0.8em; 
+    margin-left: 8px; 
+    color: #00bcd4; /* Ensure icon starts as the accent color */
+    transition: color 0.3s ease;
+}
+
+/* Ensure the icon also changes to white on hover */
+.project-entry h3 a.project-link:hover i {
+    color: #ffffff; 
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
